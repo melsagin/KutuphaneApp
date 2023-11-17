@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KutuphaneApp</string>
+    <string name="update">GÜNCELLE</string>
+    <string name="kitapAdi">Kitap Adı</string>
+    <string name="yazar">Yazar</string>
+    <string name="yayinevi">Yayınevi</string>
+    <string name="yeni_kitap_ekle">Yeni Kitap Ekle</string>
+    <string name="kitap_adi_giriniz">Lütfen kitap adını giriniz</string>
+    <string name="yazar_adi_giriniz">Lütfen kitabın yazarını giriniz</string>
+    <string name="yayinevi_giriniz">Lütfen yayınevini giriniz</string>
+    <string name="ekle">Ekle</string>
+</resources>

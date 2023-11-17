@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25732626789",
+    "firebase_url": "https://kutuphaneapp-62302-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kutuphaneapp-62302",
+    "storage_bucket": "kutuphaneapp-62302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25732626789:android:ccebcd57ec32045c8bc98c",
+        "android_client_info": {
+          "package_name": "com.melsasagin.kutuphaneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25732626789-6jjqvcm0jqrc50hh6ndrubqti99no2qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melsasagin.kutuphaneapp",
+            "certificate_hash": "45dc728dc55e986c17e6a6625db7f7556eb32771"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NP7GPc28VUBdmhYJkyoaYXaTcReK1Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
